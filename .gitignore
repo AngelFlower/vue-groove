@@ -28,3 +28,5 @@ yarn-error.log*
 # command shortcut
 dev.bat
 build.bat
+#Electron-builder output
+/dist_electron
